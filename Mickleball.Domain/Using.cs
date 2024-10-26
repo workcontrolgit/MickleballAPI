@@ -1,0 +1,9 @@
+﻿global using Mickleball.Domain.Common;
+global using Mickleball.Domain.Enums;
+global using System;
+global using System.Collections;
+global using System.Collections.Generic;
+global using System.Dynamic;
+global using System.Xml;
+global using System.Xml.Schema;
+global using System.Xml.Serialization;
